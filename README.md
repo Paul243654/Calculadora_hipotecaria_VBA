@@ -11,9 +11,8 @@
 
 ## Estado
 
-<p align="center">
-  <img width="80" height="80" src="https://github.com/Paul243654/Calculadora_hipotecaria_VBA/assets/112754073/d3bdd0a9-4f4e-4ede-a879-7eb2db3009f9">   
-</p>
+<img align="left" width="460" height="400" src="https://github.com/Paul243654/Calculadora_hipotecaria_VBA/assets/112754073/d3bdd0a9-4f4e-4ede-a879-7eb2db3009f9"> 
+
 
 ## Funcionalidades
 
