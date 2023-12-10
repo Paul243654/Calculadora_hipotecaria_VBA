@@ -12,19 +12,13 @@
 ## Estado
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Paul243654/Calculadora_hipotecaria_VBA/assets/112754073/d3bdd0a9-4f4e-4ede-a879-7eb2db3009f9">   
+  <img width="80" height="80" src="https://github.com/Paul243654/Calculadora_hipotecaria_VBA/assets/112754073/d3bdd0a9-4f4e-4ede-a879-7eb2db3009f9">   
 </p>
 
 ## Funcionalidades
 
-<img align="left" width="100" height="100" src="                     "> 
-  
+![cal_vba](https://github.com/Paul243654/Calculadora_hipotecaria_VBA/assets/112754073/fe983d9f-6db3-4f4d-937d-2c1e497e1290)
 
-<p align="center">
-  <img width="460" height="300" src="                                ">   
-</p>
-
-<img align="right" width="100" height="100" src="                     ">
 
 ## Autores
 
