@@ -11,7 +11,7 @@ Muy importante para el comprador, hacerse una idea de lo que realmente amortizar
 </p>
 
 
-En la primera imagen, tenemos el formulario de opciones, es decir las diferentes cruces de indices y diferenciales y demás que se puedan dar, la segunda imagen nos muestra el formulario correspondiente a la opción elegida.
+En la primera imagen, tenemos el formulario de opciones, es decir los diferentes cruces de indices y diferenciales y demás que se puedan dar, la segunda imagen nos muestra el formulario correspondiente a la opción elegida.
 
 
 ## Descripción
