@@ -23,7 +23,7 @@ Si el índice hipotecario que se ha contratado, esta en proceso de juicio, debid
 
 - Se puede generar listado de lo amortizado y los intereses pagados tanto por cuota como totales.
 - Se pueden generar la cantidad de los intereses legales.
-- Los informes detallados se pueden exportar a un fichero Excel, 
+- Los informes detallados se pueden exportar a un fichero Excel.
 
 ![cal_vba](https://github.com/Paul243654/Calculadora_hipotecaria_VBA/assets/112754073/fe983d9f-6db3-4f4d-937d-2c1e497e1290)
 
