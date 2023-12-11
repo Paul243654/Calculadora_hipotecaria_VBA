@@ -13,7 +13,7 @@ Muy importante para el comprador, hacerse una idea de lo que realmente amortizar
 ## Descripción
 
 Tanto si contratas un prestamo a tipo fijo o tipo variable, con esta calculadora, puedes saber la cantidad real amortizada, así como los intereses que se han pagado cada mes, el cálculo comprende desde la primera cuota hasta el mes actual en curso.
-Si el índice hipotecario que se ha contratado, esta en proceso de juicio, debido a que la claúsula que lo contiene es abusivo, se puede generar información de las cuotas pagadas, así como tambien los intereses legales.
+Si el índice hipotecario que se ha contratado, esta en proceso de juicio, debido a una posible abusividad de su claúsula, se puede generar informes detallados de las cuotas pagadas, así como tambien los intereses legales para aportar al proceso judicial.
 
 ## Estado
 
@@ -22,7 +22,8 @@ Si el índice hipotecario que se ha contratado, esta en proceso de juicio, debid
 ## Funcionalidades
 
 - Se puede generar listado de lo amortizado y los intereses pagados tanto por cuota como totales.
-- Se pueden generar la cantidad de los intereses legales. 
+- Se pueden generar la cantidad de los intereses legales.
+- Los informes detallados se pueden exportar a un fichero Excel, 
 
 ![cal_vba](https://github.com/Paul243654/Calculadora_hipotecaria_VBA/assets/112754073/fe983d9f-6db3-4f4d-937d-2c1e497e1290)
 
