@@ -30,6 +30,7 @@ Si el índice hipotecario que se ha contratado, esta en proceso de juicio, debid
 
 ![cal_vba](https://github.com/Paul243654/Calculadora_hipotecaria_VBA/assets/112754073/fe983d9f-6db3-4f4d-937d-2c1e497e1290)
 
+En la imagen podemos ver los totales pagados, tambien la comparación de la evolución del indice de ínteres aplicado vs un indice supletorio.
 
 ## Autores
 
