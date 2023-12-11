@@ -21,7 +21,8 @@ Si el índice hipotecario que se ha contratado, esta en proceso de juicio, debid
 
 ## Estado
 
-![en_construccion](https://github.com/Paul243654/Calculadora_hipotecaria_VBA/assets/112754073/2fc442e7-3705-49ca-85f6-57c894ceda19)
+![ready](https://github.com/Paul243654/Calculadora_hipotecaria_VBA/assets/112754073/9c8c9455-72ab-46e8-8776-29fdf4fb7b48)
+
 
 ## Funcionalidades
 
