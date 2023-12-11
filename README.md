@@ -1,4 +1,4 @@
-# <h1 align="center"> Calculadora de intereses de un prestamo hipotecario VBA </h1>
+# <h1 align="center"> Calculadora de intereses de un prestamo hipotecario (VBA) </h1>
 
 ## Introducción
 
