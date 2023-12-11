@@ -10,6 +10,9 @@ Muy importante para el comprador, hacerse una idea de lo que realmente amortizar
   <img width="400" height="400" src="https://github.com/Paul243654/Calculadora_hipotecaria_VBA/assets/112754073/b23b5337-0f70-4472-920d-e022ed8e9904">   
 </p>
 
+En la primera imagen, tenemos el formulario de opciones, es decir las diferentes cruces de indices y diferenciales y demás que se puedan dar, la segunda imagen nos muestra el formulario correspondiente a la opción elegida.
+
+
 ## Descripción
 
 Tanto si contratas un prestamo a tipo fijo o tipo variable, con esta calculadora, puedes saber la cantidad real amortizada, así como los intereses que se han pagado cada mes, el cálculo comprende desde la primera cuota hasta el mes actual en curso.
