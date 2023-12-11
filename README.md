@@ -16,8 +16,9 @@ En la primera imagen, tenemos el formulario de opciones, es decir los diferentes
 
 ## Descripción
 
-Tanto si contratas un prestamo a tipo fijo o tipo variable, con esta calculadora, puedes saber la cantidad real amortizada, así como los intereses que se han pagado cada mes, el cálculo comprende desde la primera cuota hasta el mes actual en curso.
-Si el índice hipotecario que se ha contratado, esta en proceso de juicio, debido a una posible abusividad de su claúsula, se puede generar informes detallados de las cuotas pagadas, así como tambien los intereses legales para aportar al proceso judicial.
+La calculadora de intereses se ha creado utilizando lenguaje de programación Visual Basic for Applications.
+Tanto si contratas un prestamo a tipo fijo o tipo variable, con esta calculadora, puedes saber la cantidad real amortizada, así como los intereses pagados cada mes, el cálculo comprende desde la primera cuota hasta el mes actual en curso.
+Si el índice hipotecario que se ha contratado, esta en proceso de juicio, debido a una posible abusividad de su claúsula, se puede generar informes detallados de las cuotas pagadas, así como tambien los intereses legales, todo esto indispensable para aportar al proceso judicial.
 
 ## Estado
 
