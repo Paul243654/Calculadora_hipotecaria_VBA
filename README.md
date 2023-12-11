@@ -3,7 +3,7 @@
 ## Introducción
 
 Al momento de comprar una vivienda, se firma un contrato hipotecario, en el cual vienen descritas las claúsulas y los indices de interes que tendra la hipoteca a lo largo de su vida.
-Muy importante para el comprador, hacerse una idea de lo que realmente amortizara cada mes y tener una idea del precio total de la compra.
+Muy importante para el comprador, hacerse una idea de lo que realmente amortizara cada mes y tener una idea de lo que pagara en intereses.
 
 <img align="left" width="400" height="400" src="https://github.com/Paul243654/Calculadora_hipotecaria_VBA/assets/112754073/84432f7f-c0fc-4ae0-a231-de8ac25e8ccc"> 
 <p align="center">
