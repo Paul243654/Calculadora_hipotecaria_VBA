@@ -34,7 +34,7 @@ Si el índice hipotecario que se ha contratado, esta en proceso de juicio, debid
 ![cal_vba](https://github.com/Paul243654/Calculadora_hipotecaria_VBA/assets/112754073/fe983d9f-6db3-4f4d-937d-2c1e497e1290)
 
 
-En la imagen podemos ver que hasta la cuota nº 204 de 300, se han amortizado 88725€ de un total de 150 000€, hasta ese momento el banco ha cobrado 65 633€ de interés, todo esto con el índice aplicado llamado IRPH, vemos que si hubiesemos contratado el índice denominado Euribor, hubiesemos amortizado 96 047 € y pagado solo 35 827€, solo en intereses.
+En la imagen podemos ver que hasta la cuota nº 204 de 300, se han amortizado 88725€ de un total de 150 000€, hasta ese momento el banco ha cobrado 65 633€ de interés, todo esto con el índice aplicado llamado IRPH, vemos que si hubiesemos contratado el índice denominado Euribor, hubiesemos amortizado 96 047 € y pagado la cantidad de 35 827€, solo en intereses. Esto nos puede dar una idea de que indice contratar gracias al historial de estos.
 Según el gráfico "Evolución de índices", indica que la contratación del Euribor saldría mucho mas barata que el IRPH.
 
 ## Autores
